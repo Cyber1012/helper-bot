@@ -18,7 +18,7 @@
 
 /* Introduction Section */
 .introduction-section-context {
-    padding: 5% 10%;
+    padding: 0% 10%;
 }
 
 .helper-bot-heading {
@@ -33,7 +33,8 @@
 }
 
 .introduction-section-image {
-    margin-top: -12%;
+    margin-top: -14.5%;
     width: 50rem;
-    margin-left: 37%;
+    float: right;
+    margin-right: -10%;
 }
