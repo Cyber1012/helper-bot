@@ -15,3 +15,25 @@
 .nav-item {
     margin-right: 15%;
 }
+
+/* Introduction Section */
+.introduction-section-context {
+    padding: 5% 10%;
+}
+
+.helper-bot-heading {
+    font-size: 3rem;
+    margin-bottom: 2%;
+    margin-top: 3%;
+}
+
+.helper-bot-quick-description {
+    font-size: 1.3rem;
+    margin-right: 60%;
+}
+
+.introduction-section-image {
+    margin-top: -12%;
+    width: 50rem;
+    margin-left: 37%;
+}
